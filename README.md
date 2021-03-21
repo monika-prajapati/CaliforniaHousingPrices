@@ -1,8 +1,5 @@
 # California Housing Price
 
-**Objective**
-- Learing to make a full ML project
-
 **Assumptions**
 - The expected output of this project is a fixed value.
 
